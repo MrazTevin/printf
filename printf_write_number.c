@@ -1,6 +1,6 @@
 /* printf_number.c */
 
-#include "printf_handlers.h"
+#include "main.h"
 
 /**
 * print_number - Print a positive integer
